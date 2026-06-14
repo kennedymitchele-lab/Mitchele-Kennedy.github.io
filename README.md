@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Site</title>
+    <title>Mitchele Kennedy - Personal Site</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,27 +26,30 @@
     </style>
 </head>
 <body>
-    <h1>Welcome! I'm Mitchele Kennedy </h1>
-
+    <h1>Mitchele Kennedy</h1>
+    
     <div class="section">
         <h2>About Me</h2>
-        <p>I'm a student currently learning Computer programming
-           I'm interested in App development.</p>
+        <p>I'm a student currently learning Computer Programming at IYF Wecan Academy. I'm interested in App development and AI.</p>
     </div>
 
     <div class="section">
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
+            <li>Python</li>
+            <li>Machine Learning</li>
+            <li>HTML & CSS</li>
         </ul>
     </div>
 
     <div class="section">
         <h2>Links</h2>
         <ul>
-            <li><a href="https://github.com/MitcheleKennedyyourMy GitHub Profile</a></li>
+            <li><a href="https://github.com/kennedymitchele-lab">GitHub</a></li>
+            <li>Email: kennedymitchele@gmail.com</li>
         </ul>
     </div>
 </body>
 </html>
+
